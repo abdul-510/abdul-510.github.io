@@ -1,1 +1,1 @@
-<h1>It's Abdul Qadir's Portfoloio</h1>
+<h1>It's Abdul Qadir's Portfolio</h1>
